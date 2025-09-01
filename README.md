@@ -37,11 +37,12 @@ It provides step-by-step animations and a clean UI to make learning algorithms e
 
 ### 🚀 Getting Started
 
+
 1. Clone the repository:
 
    ```bash
-  git clone https://github.com/anand7061/pathfinder.git
-  cd pathfinder
+    git clone https://github.com/anand7061/pathfinder.git
+    cd pathfinder
    ```
 
 
