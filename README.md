@@ -35,18 +35,15 @@ It provides step-by-step animations and a clean UI to make learning algorithms e
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
 ```bash
+# 1️⃣ Clone the repository
 git clone https://github.com/anand7061/pathfinder.git
-cd pathfinder```
+cd pathfinder
 
+# 2️⃣ Install dependencies
+npm install
 
-2️⃣ Install Dependencies
-
-    npm install
-
-3️⃣ Run the App Locally
-
-    npm start
+# 3️⃣ Run the app locally
+npm start
