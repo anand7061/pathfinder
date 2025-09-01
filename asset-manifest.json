@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pathfinder/static/css/main.bf971e6a.css",
+    "main.js": "/pathfinder/static/js/main.89887b5c.js",
+    "static/media/goal.png": "/pathfinder/static/media/goal.38300215940be4d9bef8.png",
+    "static/media/pin.png": "/pathfinder/static/media/pin.c4670350c2ac7c63718e.png",
+    "index.html": "/pathfinder/index.html",
+    "main.bf971e6a.css.map": "/pathfinder/static/css/main.bf971e6a.css.map",
+    "main.89887b5c.js.map": "/pathfinder/static/js/main.89887b5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf971e6a.css",
+    "static/js/main.89887b5c.js"
+  ]
+}
