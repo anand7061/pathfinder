@@ -41,3 +41,12 @@ It provides step-by-step animations and a clean UI to make learning algorithms e
 ```bash
 git clone https://github.com/anand7061/pathfinder.git
 cd pathfinder
+
+
+2️⃣ Install Dependencies
+
+    npm install
+
+3️⃣ Run the App Locally
+
+    npm start
