@@ -48,11 +48,11 @@ It provides step-by-step animations and a clean UI to make learning algorithms e
 
 # 2️⃣ Install dependencies
 
-    ```bash
+   
     npm install
-    ```
+   
 # 3️⃣ Run the app locally
 
-    ```bash
+    
     npm start
-    ```
+   
