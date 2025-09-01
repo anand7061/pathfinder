@@ -74,9 +74,10 @@ To redeploy after changes:
 Your app will be live at:
 👉 https://anand7061.github.io/pathfinder
 
-# 📸 Screenshots (optional)
+# 📸 Screenshots
+![Dashboard](https://github.com/anand7061/pathfinder/blob/main/Screenshot%202025-09-01%20195617.png)
 
-Add screenshots or GIFs here showing algorithm animations.
+
 
 
 # 📜 License
